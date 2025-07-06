@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://github.com/sunnnyyx/sunnnyyx/raw/main/github_banner.gif" alt="Banner GIF" width="100%" />
+  <img src="https://github.com/sunnnyyx/sunnnyyx/raw/main/github_banner_linkedin_style.gif" alt="GitHub Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Sunny Chaudhary
