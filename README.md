@@ -1,3 +1,8 @@
+<!-- Banner Section -->
+<p align="center">
+  <img src="https://github.com/sunnnyyx/sunnnyyx/raw/main/github_banner.gif" alt="Banner GIF" width="100%" />
+</p>
+
 # 👋 Hi, I'm Sunny Chaudhary
 
 🎓 3rd Year B.Tech IT Student | 💡 Aspiring Software Engineer | 🧠 Lifelong Learner
@@ -46,7 +51,7 @@ I'm a passionate and curious developer from **Army Public School, Dhaula Kuan al
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sunnyyx&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sunnnyyx&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -54,7 +59,7 @@ I'm a passionate and curious developer from **Army Public School, Dhaula Kuan al
 ## 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnychaudhary-04&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnnyyx&theme=radical" />
 </p>
 
 ---
@@ -62,9 +67,9 @@ I'm a passionate and curious developer from **Army Public School, Dhaula Kuan al
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunnychaudhary-04&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sunnnyyx&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnychaudhary-04&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnnyyx&layout=compact&theme=radical" />
 </p>
 
 ---
