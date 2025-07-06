@@ -46,7 +46,7 @@ I'm a passionate and curious developer from **Army Public School, Dhaula Kuan al
 
 ## 📈 GitHub Stats
 
-![Sunny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunnychaudhary-04&show_icons=true&theme=radical)
+![Sunny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunnnyyx&show_icons=true&theme=radical)
 
 ---
 
