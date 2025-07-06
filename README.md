@@ -1,7 +1,3 @@
-<!-- Banner Section -->
-<img src="https://github.com/sunnnyyx/sunnnyyx/raw/main/git%20banner%203.jpg" alt="GitHub Banner" width="100%" height="250px" />
-
-
 # 👋 Hi, I'm Sunny Chaudhary
 
 🎓 3rd Year B.Tech IT Student | 💡 Aspiring Software Engineer | 🧠 Lifelong Learner
