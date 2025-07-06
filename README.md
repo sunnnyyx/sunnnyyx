@@ -30,7 +30,7 @@ I'm a passionate and curious developer from **Army Public School, Dhaula Kuan al
 
 ---
 
-## 📂 Projects I'm Currently Working On
+## 📂 Projects 
 
 1. **🎧 Spotify Clone**  
    A full-stack clone with search, play, and playlist functionality using React and Firebase.
