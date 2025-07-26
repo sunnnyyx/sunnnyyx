@@ -135,7 +135,7 @@ Here's a comprehensive list of my technical proficiencies:
 
 - 📧 Email: sunnychaudhary1856@gmail.com  
 - 💼 LinkedIn: [www.linkedin.com/in/sunnychaudhary07](https://www.linkedin.com/in/sunnychaudhary07)  
-- 🌐 Portfolio: _Coming Soon_
+- 🌐 Portfolio: Coming Soon
 
 ---
 
