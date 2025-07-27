@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sunny Chaudhary
+# 👋 Hi, I'm Sunny 
 
 🎓 3rd Year B.Tech IT Student | 💡 Aspiring Software Engineer | 🧠 Lifelong Learner
 
