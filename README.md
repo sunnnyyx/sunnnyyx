@@ -17,8 +17,6 @@ I'm a passionate and curious developer from **Army Public School, Dhaula Kuan al
 
 ## 🛠️ Tech Stack & Skills
 
-Here's a comprehensive list of my technical proficiencies:
-
 ### 💻 Programming Languages & Frameworks:
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -98,14 +96,14 @@ Here's a comprehensive list of my technical proficiencies:
 
 ## 📂 Projects
 
-1.  **🎧 Spotify Clone**  
-    A full-stack clone with search, play, and playlist functionality using React and Firebase.
+1. **🎧 Spotify Clone**  
+   A full-stack clone with search, play, and playlist functionality using React and Firebase.
 
-2.  **💬 HuddleFlow**  
-    A real-time team collaboration tool (chat + kanban) built with React, Tailwind, and WebSocket support.
+2. **💬 HuddleFlow**  
+   A real-time team collaboration tool (chat + kanban) built with React, Tailwind, and WebSocket support.
 
-3.  **👐 Indian Sign Language Translator**  
-    Converts sign language gestures into text using computer vision and machine learning.
+3. **👐 Indian Sign Language Translator**  
+   Converts sign language gestures into text using computer vision and machine learning.
 
 ---
 
@@ -117,15 +115,18 @@ Here's a comprehensive list of my technical proficiencies:
 
 ---
 
-## 📊 GitHub Activity & Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sunnnyyx&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnnyyx&layout=donut-vertical&theme=tokyonight" height="150"/>
 </p>
 
+---
+
+## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sunnnyyx&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnnyyx&theme=github-compact" />
 </p>
 
@@ -134,7 +135,7 @@ Here's a comprehensive list of my technical proficiencies:
 ## 🔗 Connect with Me
 
 - 📧 Email: sunnychaudhary1856@gmail.com  
-- 💼 LinkedIn: [www.linkedin.com/in/sunnychaudhary07](https://www.linkedin.com/in/sunnychaudhary07)  
+- 💼 LinkedIn: [www.linkedin.com/in/sunnychaudhary07](https://www.linkedin.com/in/sunnychaudhary07)
 
 ---
 
