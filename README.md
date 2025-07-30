@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Sunny Chaudhary</h1>
+<h1 align="center">👋 Hi, I'm Sunny</h1>
 <h3 align="center">🎓 3rd Year B.Tech IT Student | 💡 Aspiring Software Engineer | 🧠 Lifelong Learner</h3>
 
 ---
