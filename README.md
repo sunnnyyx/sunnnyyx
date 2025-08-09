@@ -61,12 +61,3 @@ I'm a passionate and curious developer from **Army Public School, Dhaula Kuan**,
 </p>
 
 ---
-
-## 📊 GitHub Highlights
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=sunnnyyx&theme=tokyonight&hide_border=true&card_width=500&v=2"
-    alt="GitHub Streak"
-    height="180"
-/>
-</p>
