@@ -17,10 +17,6 @@
 ## 🚀 About Me
 I'm a passionate and curious developer from **Army Public School, Dhaula Kuan**, currently pursuing **B.Tech in Information Technology** from **Maharaja Agrasen Institute of Technology**.  
 
-💻 Full-stack web development (React, Node.js, MongoDB)  
-🧠 AI/ML Projects (e.g., Indian Sign Language Translator)  
-📚 Actively improving DSA skills on LeetCode  
-
 ---
 
 ## 🛠️ Skills & Tools
