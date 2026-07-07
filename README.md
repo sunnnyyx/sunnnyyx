@@ -1,9 +1,8 @@
-<h1 align="center">👋 Hi, I'm Sunny</h1>
-<h3 align="center">🎓 3rd Year B.Tech IT Student | 💡 Aspiring Software Engineer | 🧠 Lifelong Learner</h3>
+<h1 align="center">Hi, I'm Sunny</h1>
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="mailto:sunnychaudhary1856@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/></a>
   &nbsp;&nbsp;
@@ -14,11 +13,11 @@
 ---
 
 ##  About Me
-**software engineer in the making · building things and figuring stuff out**
+**Software engineer in the making**
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 <p align="center" style="line-height:3">
   <!-- Programming -->
   <img src="https://img.icons8.com/color/60/c-programming.png" alt="C"/>
