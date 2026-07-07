@@ -15,7 +15,7 @@
 ---
 
 ##  About Me
-I'm a passionate and curious developer from **Army Public School, Dhaula Kuan**, currently pursuing **B.Tech in Information Technology** from **Maharaja Agrasen Institute of Technology**.  
+software engineer in the making · building things and figuring stuff out 
 
 ---
 
