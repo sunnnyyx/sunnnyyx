@@ -9,8 +9,7 @@
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sunnychaudhary07"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/sunnnyyx"><img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/></a>
-</p>
+  
 
 ---
 
