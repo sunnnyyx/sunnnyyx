@@ -15,7 +15,7 @@
 ---
 
 ##  About Me
-software engineer in the making · building things and figuring stuff out 
+**software engineer in the making · building things and figuring stuff out**
 
 ---
 
