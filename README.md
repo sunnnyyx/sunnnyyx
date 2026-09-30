@@ -20,10 +20,4 @@
 
 <br>
 
-### GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunnnyyx&theme=minimal&hide_border=true" />
-</p>
-
----
