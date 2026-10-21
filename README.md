@@ -9,11 +9,11 @@
 
 </div>
 
-## A bit about me
+## About me
 
 Fourth-year Information Technology student at **Maharaja Agrasen Institute of Technology (MAIT)**.
 Mostly building backends, working with language models, and following an idea a little further than planned.
-Currently looking for **SDE opportunities** and **AI/ML roles**. If you're building something interesting, [let's talk](https://www.linkedin.com/in/sunnychaudhary07/).
+Currently looking for **SDE opportunities** and **AI/ML roles**.
 
 ## Tech stack
 
