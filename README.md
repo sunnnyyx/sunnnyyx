@@ -1,27 +1,21 @@
 <div align="center">
 
-<img width="100%" alt="Sunny Chaudhary — AI Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1020,50:30264F,100:17162B&height=220&section=header&text=Sunny%20Chaudhary&fontSize=52&fontColor=C4B5FD&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Intelligent%20Systems%20%C2%B7%20Backend&descAlignY=60&descSize=19&animation=fadeIn" />
+<img width="100%" alt="Sunny Chaudhary" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1020,50:30264F,100:17162B&height=220&section=header&text=Sunny%20Chaudhary&fontSize=52&fontColor=C4B5FD&fontAlignY=45&animation=fadeIn" />
 
-<img width="100%" alt="AI engineer. casually automating the hard part." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3800&pause=2200&color=A78BFA&center=true&vCenter=true&repeat=true&width=760&height=60&lines=AI+engineer.+casually+automating+the+hard+part." />
+<img width="100%" alt="just seeing what I can build." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3800&pause=2200&color=A78BFA&center=true&vCenter=true&repeat=true&width=760&height=60&lines=just+seeing+what+I+can+build." />
 
 [![GitHub](https://img.shields.io/badge/GitHub-252238?style=for-the-badge&logo=github&logoColor=C4B5FD)](https://github.com/sunnnyyx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/sunnychaudhary07/)
 
 </div>
 
-## Behind the commits
+## A bit about me
 
-```python
-class Sunny:
-    role = "AI Engineer"
-    building = ["RAG systems", "LLM-powered apps", "reliable backends"]
-    default_mode = "curious enough to build it"
+Fourth-year Information Technology student at **Maharaja Agrasen Institute of Technology (MAIT)**.
 
-    def approach(self, idea):
-        return "prototype → break things → understand why → ship better"
-```
+Mostly building backends, working with language models, and following an idea a little further than planned.
 
-I connect language models to things they can actually work with: documents, databases, and APIs. My repositories span retrieval assistants, natural-language SQL, document intelligence, and backend delivery systems. Somewhere between the model response and the edge case is usually where I get interested.
+Currently looking for **SDE opportunities** and **AI/ML roles**. If you're building something interesting, [let's talk](https://www.linkedin.com/in/sunnychaudhary07/).
 
 ## Tech stack
 
