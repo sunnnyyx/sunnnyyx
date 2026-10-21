@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" alt="Sunny Chaudhary" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1020,50:30264F,100:17162B&height=220&section=header&text=Sunny%20Chaudhary&fontSize=52&fontColor=C4B5FD&fontAlignY=45&animation=fadeIn" />
+<img width="100%" alt="Sunny Chaudhary" src="https://capsule-render.vercel.app/api?type=waving&color=0:071A18,50:164E46,100:0B2420&height=220&section=header&text=Sunny%20Chaudhary&fontSize=52&fontColor=A7F3D0&fontAlignY=45&animation=fadeIn" />
 
-<img width="100%" alt="just seeing what I can build." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3800&pause=2200&color=A78BFA&center=true&vCenter=true&repeat=true&width=760&height=60&lines=just+seeing+what+I+can+build." />
+<img width="100%" alt="just seeing what I can build." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3800&pause=2200&color=34D399&center=true&vCenter=true&repeat=true&width=760&height=60&lines=just+seeing+what+I+can+build." />
 
-[![GitHub](https://img.shields.io/badge/GitHub-252238?style=for-the-badge&logo=github&logoColor=C4B5FD)](https://github.com/sunnnyyx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/sunnychaudhary07/)
+[![GitHub](https://img.shields.io/badge/GitHub-16332D?style=for-the-badge&logo=github&logoColor=A7F3D0)](https://github.com/sunnnyyx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-047857?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/sunnychaudhary07/)
 
 </div>
 
@@ -24,31 +24,31 @@ Currently looking for **SDE opportunities** and **AI/ML roles**.
 
 <h3>AI & retrieval</h3>
 
-![RAG](https://img.shields.io/badge/RAG-252238?style=flat-square&labelColor=252238)
-![LLMs](https://img.shields.io/badge/LLMs-252238?style=flat-square)
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-7C3AED?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-252238?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-252238?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-7C3AED?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-252238?style=flat-square)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-252238?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-16332D?style=flat-square&labelColor=16332D)
+![LLMs](https://img.shields.io/badge/LLMs-16332D?style=flat-square)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-047857?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-16332D?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-16332D?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-047857?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-16332D?style=flat-square)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-16332D?style=flat-square)
 
 <h3>Web & backend</h3>
 <img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,tailwind,html,css,dotnet,spring,flutter&theme=dark&perline=10" alt="FastAPI, React, Next.js, Node.js, Tailwind CSS, HTML, CSS, .NET, Spring, Flutter" />
 
-![Streamlit](https://img.shields.io/badge/Streamlit-252238?style=flat-square&logo=streamlit&logoColor=C4B5FD)
-![REST APIs](https://img.shields.io/badge/REST_APIs-7C3AED?style=flat-square)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-252238?style=flat-square)
-![Pydantic](https://img.shields.io/badge/Pydantic-252238?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-16332D?style=flat-square&logo=streamlit&logoColor=A7F3D0)
+![REST APIs](https://img.shields.io/badge/REST_APIs-047857?style=flat-square)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-16332D?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-16332D?style=flat-square)
 
 <h3>Databases, deployment & tools</h3>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,docker,aws,vercel,git,github&theme=dark&perline=9" alt="PostgreSQL, MySQL, Redis, Supabase, Docker, AWS, Vercel, Git, GitHub" />
 
-![Render](https://img.shields.io/badge/Render-252238?style=flat-square&logo=render&logoColor=C4B5FD)
-![Neon](https://img.shields.io/badge/Neon-252238?style=flat-square)
-![pytest](https://img.shields.io/badge/pytest-7C3AED?style=flat-square&logo=pytest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-252238?style=flat-square&logo=githubactions&logoColor=C4B5FD)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-252238?style=flat-square)
+![Render](https://img.shields.io/badge/Render-16332D?style=flat-square&logo=render&logoColor=A7F3D0)
+![Neon](https://img.shields.io/badge/Neon-16332D?style=flat-square)
+![pytest](https://img.shields.io/badge/pytest-047857?style=flat-square&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-16332D?style=flat-square&logo=githubactions&logoColor=A7F3D0)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-16332D?style=flat-square)
 
 </div>
 
@@ -56,8 +56,8 @@ Currently looking for **SDE opportunities** and **AI/ML roles**.
 
 <div align="center">
 
-<img width="49%" alt="Sunny's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sunnnyyx&show_icons=true&hide_border=true&bg_color=17162B&title_color=C4B5FD&icon_color=A78BFA&text_color=E2E0EF&border_radius=12&rank_icon=github" />
-<img width="49%" alt="Most used languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnnyyx&layout=compact&hide_border=true&bg_color=17162B&title_color=C4B5FD&text_color=E2E0EF&border_radius=12&langs_count=8" />
+<img width="49%" alt="Sunny's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sunnnyyx&show_icons=true&hide_border=true&bg_color=0B2420&title_color=A7F3D0&icon_color=34D399&text_color=E2F3ED&border_radius=12&rank_icon=github" />
+<img width="49%" alt="Most used languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnnyyx&layout=compact&hide_border=true&bg_color=0B2420&title_color=A7F3D0&text_color=E2F3ED&border_radius=12&langs_count=8" />
 
 <br /><br />
 
@@ -79,8 +79,8 @@ Currently looking for **SDE opportunities** and **AI/ML roles**.
 
 <br />
 
-[![Let's connect](https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-7C3AED?style=for-the-badge&labelColor=252238)](https://www.linkedin.com/in/sunnychaudhary07/)
+[![Let's connect](https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-047857?style=for-the-badge&labelColor=16332D)](https://www.linkedin.com/in/sunnychaudhary07/)
 
-<img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1020,50:30264F,100:17162B&height=120&section=footer" />
+<img width="100%" alt="Footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:071A18,50:164E46,100:0B2420&height=120&section=footer" />
 
 </div>
