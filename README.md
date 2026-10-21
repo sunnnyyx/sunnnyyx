@@ -20,7 +20,7 @@ Currently looking for **SDE opportunities** and **AI/ML roles**.
 <div align="center">
 
 <h3>Languages</h3>
-<img src="https://skillicons.dev/icons?i=python,go,typescript,javascript,cpp,java,cs,c&theme=dark&perline=8" alt="Python, Go, TypeScript, JavaScript, C++, Java, C#, C" />
+<img src="https://skillicons.dev/icons?i=python,go,typescript,javascript,cpp,java&theme=dark&perline=6" alt="Python, Go, TypeScript, JavaScript, C++, Java" />
 
 <h3>AI & retrieval</h3>
 
@@ -34,21 +34,17 @@ Currently looking for **SDE opportunities** and **AI/ML roles**.
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-16332D?style=flat-square)
 
 <h3>Web & backend</h3>
-<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,tailwind,html,css,dotnet,spring,flutter&theme=dark&perline=10" alt="FastAPI, React, Next.js, Node.js, Tailwind CSS, HTML, CSS, .NET, Spring, Flutter" />
+<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,nodejs,tailwind,html,css&theme=dark&perline=7" alt="FastAPI, React, Next.js, Node.js, Tailwind CSS, HTML, CSS" />
 
-![Streamlit](https://img.shields.io/badge/Streamlit-16332D?style=flat-square&logo=streamlit&logoColor=A7F3D0)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-047857?style=flat-square)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-16332D?style=flat-square)
 ![Pydantic](https://img.shields.io/badge/Pydantic-16332D?style=flat-square)
 
 <h3>Databases, deployment & tools</h3>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase,docker,aws,vercel,git,github&theme=dark&perline=9" alt="PostgreSQL, MySQL, Redis, Supabase, Docker, AWS, Vercel, Git, GitHub" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,aws,vercel,git,github&theme=dark&perline=7" alt="PostgreSQL, MySQL, Docker, AWS, Vercel, Git, GitHub" />
 
 ![Render](https://img.shields.io/badge/Render-16332D?style=flat-square&logo=render&logoColor=A7F3D0)
 ![Neon](https://img.shields.io/badge/Neon-16332D?style=flat-square)
-![pytest](https://img.shields.io/badge/pytest-047857?style=flat-square&logo=pytest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-16332D?style=flat-square&logo=githubactions&logoColor=A7F3D0)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-16332D?style=flat-square)
 
 </div>
 
