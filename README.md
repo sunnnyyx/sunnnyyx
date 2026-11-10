@@ -48,12 +48,7 @@ Currently looking for **SDE opportunities** and **AI/ML roles**.
 
 </div>
 
-## GitHub in motion
 
-<div align="center">
-
-<img width="49%" alt="Sunny's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sunnnyyx&show_icons=true&hide_border=true&bg_color=0B2420&title_color=A7F3D0&icon_color=34D399&text_color=E2F3ED&border_radius=12&rank_icon=github" />
-<img width="49%" alt="Most used languages across public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnnyyx&layout=compact&hide_border=true&bg_color=0B2420&title_color=A7F3D0&text_color=E2F3ED&border_radius=12&langs_count=8" />
 
 <br /><br />
 
